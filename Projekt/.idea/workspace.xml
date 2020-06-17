@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ebcaf83-c64e-4a56-aa81-106739de48a3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1a2UcLJ2CfAYz6namATctOurNtM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/pdd" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Projekt/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ebcaf83-c64e-4a56-aa81-106739de48a3" name="Default Changelist" comment="" />
+      <created>1585933260470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585933260470</updated>
+      <workItem from="1585933261869" duration="405000" />
+      <workItem from="1585933681506" duration="4390000" />
+      <workItem from="1586093191650" duration="11014000" />
+      <workItem from="1586175767547" duration="2010000" />
+      <workItem from="1586432539153" duration="10718000" />
+      <workItem from="1586624010520" duration="2908000" />
+      <workItem from="1586955982156" duration="325000" />
+      <workItem from="1587645892825" duration="3260000" />
+      <workItem from="1588174275372" duration="1918000" />
+      <workItem from="1588769751073" duration="2344000" />
+      <workItem from="1589389303482" duration="4372000" />
+      <workItem from="1589452551723" duration="3327000" />
+      <workItem from="1592133543307" duration="1761000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585934156403">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585934156403" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1587646547636">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587646547636" />
+    <state x="540" y="201" key="SettingsEditor" timestamp="1585933702528">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="201" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585933702528" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1587645919665">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587645919665" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/validator.js</url>
+          <line>89</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

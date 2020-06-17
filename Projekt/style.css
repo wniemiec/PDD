@@ -1,0 +1,102 @@
+body
+{
+	/*background-color: #303030;*/
+	background-image: url(1.jpg);
+	color: #ffffff;
+	margin: 0 !important;
+	/*padding-top: 70px;*/
+}
+
+
+.header
+{
+	width: 100%;
+	padding: 40px 0;
+}
+
+
+.content1
+{
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.content
+{
+	width: 100%;
+	background-color: #303030;
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+	/*margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: #303030;
+	margin-bottom: 5%;
+	border-style: dotted;
+  	border-color: coral;
+  	*/
+}
+
+.footer
+{
+	text-align: center;
+	/*background-color: #222222;*/
+	/*background-image: url(1.jpg);*/
+	padding: 30px;
+	margin-top: 3%;
+}
+
+
+.navbar-nav
+{
+
+}
+
+.navbar-nav li:hover>.dropdown-menu
+{
+	display: block;
+}
+
+
+
+.bg-colors
+{
+	background-color: #bfbfbf !important;
+
+}
+
+
+div#carousel-example-generic {
+height: 180px;
+}
+
+.row
+{
+	margin-left: auto;
+	margin-right: 14px;
+	
+}
+
+
+#kafle{
+	width:1000px;
+	margin:0 auto;
+}
+
+.ikony{
+	width:15px;
+	height:15px;
+
+}
+.ikony2{
+	width:25px;
+	height:25px;
+
+}
